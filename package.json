@@ -1,0 +1,24 @@
+{
+  "name": "knitto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wramadan7-org/knitto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wramadan7-org/knitto/issues"
+  },
+  "homepage": "https://github.com/wramadan7-org/knitto#readme"
+}
